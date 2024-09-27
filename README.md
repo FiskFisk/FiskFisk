@@ -10,6 +10,7 @@
 
 - 📫 Connect With Me
   Feel free to reach out on LinkedIn if you'd like to collaborate or chat about tech and gaming.
+  * [Linkdin](https://www.linkedin.com/in/julian-lund-791bb92a1/)
 
 - ⚡ Fun Fact
   My passion for creating games started long before I got into IT, and it’s what keeps me motivated every day.
