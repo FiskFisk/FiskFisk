@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Game Developer and Designer
 -----------------------------------
 
-Here’s an improved and slightly longer version of your statement: I’ve been passionate about IT and game development for as long as I can remember. From a young age, I found myself drawn to the endless possibilities that technology offers, whether it's creating interactive experiences or solving complex problems. Over the years, I’ve explored various fields in programming and development, working with HTML and CSS to build websites, and diving deep into game development using Unity with C# and many other scripts like JS and Python. Along the way, I’ve picked up a wide range of skills and tools that have helped me bring my creative visions to life.
+I’ve been passionate about IT and game development for as long as I can remember. From a young age, I found myself drawn to the endless possibilities that technology offers, whether it's creating interactive experiences or solving complex problems. Over the years, I’ve explored various fields in programming and development, working with HTML and CSS to build websites, and diving deep into game development using Unity with C# and many other scripts like JS and Python. Along the way, I’ve picked up a wide range of skills and tools that have helped me bring my creative visions to life.
 
 * 🌍  I'm based in Oslo, Norway
 * ✉️  You can contact me at [julian.m.lund@gmail.com](mailto:julian.m.lund@gmail.com)
