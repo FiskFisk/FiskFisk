@@ -109,9 +109,6 @@ I’ve been passionate about IT and game development for as long as I can rememb
   </tbody>
 </table>
 
-### Projects
-
-You can find all of my projects on my [GitHub](https://github.com/FiskFisk).
 
 ### Thank you for visiting my profile!
 
