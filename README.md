@@ -13,11 +13,9 @@ I’ve been passionate about IT and game development for as long as I can rememb
 
 ### Skills
 
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
 </p>
-
 
 ### Socials
 
@@ -25,8 +23,95 @@ I’ve been passionate about IT and game development for as long as I can rememb
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<div style="display: flex; justify-content: space-between;">
+  <a href="http://www.github.com/FiskFisk">
+    <img src="https://github-readme-stats.vercel.app/api?username=FiskFisk&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FiskFisk's GitHub stats" style="margin-right: 20px;" />
+  </a>
+  <a href="https://github.com/FiskFisk" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiskFisk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</div>
 
-<a href="https://github.com/FiskFisk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiskFisk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br/>
 
-<a href="http://www.github.com/FiskFisk"><img src="https://github-readme-stats.vercel.app/api?username=FiskFisk&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FiskFisk's GitHub stats" /></a>
+<table style="width: 100%; border-collapse: collapse; background-color: #1C1917; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+  <thead>
+    <tr style="background-color: #e0e0e0;">
+      <th style="padding: 10px; text-align: left; border-bottom: 2px solid #ddd;">Language/Skill</th>
+      <th style="padding: 10px; text-align: left; border-bottom: 2px solid #ddd;">Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" style="height: 20px; width: 20px; vertical-align: middle;"> TypeScript
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/331626/unity.svg" alt="Unity" style="height: 20px; width: 20px; vertical-align: middle;"> Unity
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐☆☆</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/353488/blender.svg" alt="Blender" style="height: 20px; width: 20px; vertical-align: middle;"> Blender
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐⭐☆☆☆☆☆</span>
+      </td>  
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" style="height: 20px; width: 20px; vertical-align: middle;"> Python
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐⭐⭐☆☆☆☆</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML" style="height: 20px; width: 20px; vertical-align: middle;"> HTML5
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" style="height: 20px; width: 20px; vertical-align: middle;"> CSS3
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" style="height: 20px; width: 20px; vertical-align: middle;"> JavaScript
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐⭐☆☆☆☆</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/374093/sql.svg" alt="SQL" style="height: 20px; width: 20px; vertical-align: middle;"> SQL
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐☆☆☆☆☆☆</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Projects
+
+You can find all of my projects on my [GitHub](https://github.com/FiskFisk).
+
+### Thank you for visiting my profile!
+
