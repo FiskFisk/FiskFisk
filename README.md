@@ -39,9 +39,12 @@ I’ve been passionate about IT and game development for as long as I can rememb
     <tr style="background-color: #e0e0e0;">
       <th style="padding: 10px; text-align: left; border-bottom: 2px solid #ddd;">Language/Skill</th>
       <th style="padding: 10px; text-align: left; border-bottom: 2px solid #ddd;">Proficiency</th>
+      <th style="padding: 10px; text-align: left; border-bottom: 2px solid #ddd;">Language/Skill</th>
+      <th style="padding: 10px; text-align: left; border-bottom: 2px solid #ddd;">Proficiency</th>
     </tr>
   </thead>
   <tbody>
+    <!-- Left column -->
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
         <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" style="height: 20px; width: 20px; vertical-align: middle;"> TypeScript
@@ -49,26 +52,8 @@ I’ve been passionate about IT and game development for as long as I can rememb
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
         <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
       </td>
-    </tr>
-    <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <img src="https://www.svgrepo.com/show/331626/unity.svg" alt="Unity" style="height: 20px; width: 20px; vertical-align: middle;"> Unity
-      </td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐☆☆</span>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <img src="https://www.svgrepo.com/show/353488/blender.svg" alt="Blender" style="height: 20px; width: 20px; vertical-align: middle;"> Blender
-      </td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <span style="color: gold;">⭐⭐⭐⭐⭐☆☆☆☆☆</span>
-      </td>  
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" style="height: 20px; width: 20px; vertical-align: middle;"> Python
+        <img src="https://www.svgrepo.com/show/452091/python.svg" style="height: 20px; width: 20px; vertical-align: middle;"> Python
       </td>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
         <span style="color: gold;">⭐⭐⭐⭐⭐⭐☆☆☆☆</span>
@@ -76,7 +61,13 @@ I’ve been passionate about IT and game development for as long as I can rememb
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML" style="height: 20px; width: 20px; vertical-align: middle;"> HTML5
+        <img src="https://www.svgrepo.com/show/331626/unity.svg" style="height: 20px; width: 20px; vertical-align: middle;"> Unity
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐☆☆</span>
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/452228/html-5.svg" style="height: 20px; width: 20px; vertical-align: middle;"> HTML5
       </td>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
         <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
@@ -84,7 +75,13 @@ I’ve been passionate about IT and game development for as long as I can rememb
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" style="height: 20px; width: 20px; vertical-align: middle;"> CSS3
+        <img src="https://www.svgrepo.com/show/353488/blender.svg" style="height: 20px; width: 20px; vertical-align: middle;"> Blender
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐⭐☆☆☆☆☆</span>
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/452185/css-3.svg" style="height: 20px; width: 20px; vertical-align: middle;"> CSS3
       </td>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
         <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
@@ -92,22 +89,21 @@ I’ve been passionate about IT and game development for as long as I can rememb
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" style="height: 20px; width: 20px; vertical-align: middle;"> JavaScript
+        <img src="https://www.svgrepo.com/show/374093/sql.svg" style="height: 20px; width: 20px; vertical-align: middle;"> SQL
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <span style="color: gold;">⭐⭐⭐⭐☆☆☆☆☆☆</span>
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+        <img src="https://www.svgrepo.com/show/353925/javascript.svg" style="height: 20px; width: 20px; vertical-align: middle;"> JavaScript
       </td>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
         <span style="color: gold;">⭐⭐⭐⭐⭐☆☆☆☆</span>
       </td>
     </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <img src="https://www.svgrepo.com/show/374093/sql.svg" alt="SQL" style="height: 20px; width: 20px; vertical-align: middle;"> SQL
-      </td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <span style="color: gold;">⭐⭐⭐⭐☆☆☆☆☆☆</span>
-      </td>
-    </tr>
   </tbody>
 </table>
+
 
 
 ### Thank you for visiting my profile!
