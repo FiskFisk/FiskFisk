@@ -87,7 +87,7 @@ I’ve been passionate about IT and game development for as long as I can rememb
         <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" style="height: 20px; width: 20px; vertical-align: middle;"> CSS3
       </td>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">
-        <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</span>
+        <span style="color: gold;">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
       </td>
     </tr>
     <tr>
