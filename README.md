@@ -8,7 +8,7 @@ I’ve been passionate about IT and game development for as long as I can rememb
 
 * 🌍  I'm based in Oslo, Norway
 * ✉️  You can contact me at [julian.m.lund@gmail.com](mailto:julian.m.lund@gmail.com)
-* 🧠  I'm learing react and typescript and working as a intern for a company
+* 🧠  I'm learing react/typescript and flask/python
 * 🤝  I'm open to collaborating on Gaming projects, Game jams and much more
 
 ### Skills
