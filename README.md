@@ -102,6 +102,11 @@ These days, my main focus is on modern web development, especially frontend work
   </a>
 </p>
 
+### Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=FiskFisk&color=blue&style=flat)
+
+
 ### Badges
 
 
