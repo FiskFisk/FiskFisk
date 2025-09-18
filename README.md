@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julian Lund
 ===================================================================================================================================
 
-Web and Game Developer and Designer
+Web and Game Developer | Designer
 -----------------------------------
 
-I’ve been passionate about IT and game development for as long as I can remember. From a young age, I found myself drawn to the endless possibilities that technology offers, whether it's creating interactive experiences or solving complex problems. Over the years, I’ve explored various fields in programming and development, working with HTML and CSS to build websites, and diving deep into game development using Unity with C# and many other scripts like JS and Python. Along the way, I’ve picked up a wide range of skills and tools that have helped me bring my creative visions to life.
+I’ve been passionate about IT and game development for as long as I can remember. From a young age, I was drawn to the endless possibilities that technology offers—whether it’s creating interactive experiences, designing games, or solving complex problems. Over the years, I’ve explored many areas of programming and development, starting out with HTML and CSS for web design, and later diving deep into game development with **Unity and C#**, while also working with **C++ and Lua** to expand my knowledge.  
 
-* 🌍  I'm based in Oslo, Norway
-* ✉️  You can contact me at [julian.m.lund@gmail.com](mailto:julian.m.lund@gmail.com)
-* 🧠  I'm learing react/typescript and flask/python
-* 🤝  I'm open to collaborating on Gaming projects, Game jams and much more
+These days, my main focus is on modern web development, especially frontend work with **React, TypeScript, and JavaScript**. On the game development side, I continue to grow my skills in Unity and C#. I’m also currently learning **Java and Kotlin** as I prepare to move further into backend development in the future.  
 
+🌍 Based in **Oslo, Norway**  
+✉️ Reach me at **[julian.m.lund@gmail.com](mailto:julian.m.lund@gmail.com)**  
+🧠 Always learning new tools and languages  
+🤝 Open to collaborating on **game projects, game jams, and creative dev work**  
 ### Skills
 
 <p align="left">
